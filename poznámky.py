@@ -28,6 +28,12 @@ elif not (x == 3):
 else:
     print()
 
+#for cyklus
+for i in range():
+    vek = int(input())
+    if vek == 10:
+        print("")
+
 #github příkaz 1:
 #git add *
 
@@ -41,4 +47,4 @@ else:
 #git clone
 
 #github píkaz 5:
-#git 
+#git pull - zobrazí se upravený nový soubor
