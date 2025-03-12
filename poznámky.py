@@ -37,3 +37,8 @@ else:
 #github příkaz 3:
 #git push
 
+#github příkaz 4:
+#git clone
+
+#github píkaz 5:
+#git 
